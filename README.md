@@ -1,4 +1,4 @@
-# SCB-API-EASY V3.0
+# SCB-API-ESAY V3.0
 
 API documentation
 SIAM COMMERCIAL BANK PUBLIC COMPANY LTD. 
@@ -54,7 +54,7 @@ endpoint	= https://fasteasy.scbeasy.link
 
 - Json Body
 	{
-		"deviceid":"2ecc83a4-4df7-4835-8b8b-57b9ba7032c1'",
+		"deviceid":"2ecc83a4-4df7-4835-8b8b-57b9ba7032c1",
 		"accountFrom":"1234567890",
 		"pincode":"123456",
 		"accountFromType":"2",
