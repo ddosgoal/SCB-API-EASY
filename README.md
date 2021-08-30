@@ -8,6 +8,7 @@ V3
 endpoint	= https://fasteasy.scbeasy.link
 ```
 1.0. Get balance
+```json
 - POST 
 	{{endpoint}}/v2/deposits/summary
 
@@ -23,10 +24,11 @@ endpoint	= https://fasteasy.scbeasy.link
 
 - Header
 	'Content-Type: application/json; charset=UTF-8'
-
+```
 //////////////////////////////////////////////////////////////////////////////////////////////////////
 
-2.0. Get transactions	
+2.0. Get transactions
+```json
 - POST 
 	{{endpoint}}/v2/deposits/casa/transactions
 
@@ -45,10 +47,11 @@ endpoint	= https://fasteasy.scbeasy.link
 - Header
 	'Accept-Language: th',
 	'Content-Type: application/json; charset=UTF-8'
-
+```
 //////////////////////////////////////////////////////////////////////////////////////////////////////
 
 3.0. Get transfer
+```json
 - POST 
 	{{endpoint}}/v3/transfer/confirmation
 
@@ -67,7 +70,7 @@ endpoint	= https://fasteasy.scbeasy.link
 
 - Header
 	'Content-Type: application/json; charset=UTF-8'
-
+```
 //////////////////////////////////////////////////////////////////////////////////////////////////////
 
 วิธีหา DeviceId
