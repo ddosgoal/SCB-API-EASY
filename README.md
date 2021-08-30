@@ -36,11 +36,11 @@ endpoint	= https://fasteasy.scbeasy.link
 		"deviceid":"2ecc83a4-4df7-4835-8b8b-57b9ba7032c1",
 		"accountNo":"1234567890",
 		"pincode":"123456",
-		"endDate":"2021-08-28",
+		"endDate":"2021-08-30",
 		"pageNumber":"1",
 		"pageSize":20,
 		"productType":"2",
-		"startDate":"2021-08-01"
+		"startDate":"2021-08-29"
 	}
 
 - Header
