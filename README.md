@@ -2,7 +2,7 @@
 
 ### API documentation
 ### SIAM COMMERCIAL BANK PUBLIC COMPANY LTD. 
-### Api scbeasy Bank V3 
+### Api scbeasy V3 
 ```xml
 endpoint	= https://fasteasy.scbeasy.link
 ```
