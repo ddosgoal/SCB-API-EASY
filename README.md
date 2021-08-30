@@ -4,9 +4,9 @@ API documentation
 SIAM COMMERCIAL BANK PUBLIC COMPANY LTD. 
 Api scbeasy Bank 
 V3 
-
+```xml
 endpoint	= https://fasteasy.scbeasy.link
-
+```
 1.0. Get balance
 - POST 
 	{{endpoint}}/v2/deposits/summary
