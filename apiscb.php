@@ -8,9 +8,9 @@ $api_balanceOne 	= "https://fasteasy.scbeasy.link/v2/deposits/summary";
 $api_transfer 		= "https://fasteasy.scbeasy.link/v3/transfer/confirmation";
 /////////////
 
-$deviceid = "5ecc03a4-4df7-7589-8b8b-5eb9ba7932c1"; //เลขเครื่อง
-$account_number= "1234567890"; //บัญชีธนาคารของท่าน
-$pincode= "123456"; //รหัส pincode app scb ของท่าน
+$deviceid = "5ecc03a4-4df7-7589-8b8b-5eb9ba7932c1"; // เลข id เครื่อง
+$account_number= "1234567890"; // บัญชีธนาคารของท่าน
+$pincode= "123456"; // รหัส pincode app scb ของท่าน
 
 $startDate = "2021-08-01";
 $endDate = "2021-08-28";
